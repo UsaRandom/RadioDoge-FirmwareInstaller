@@ -14,3 +14,6 @@ Tool to make RadioDoge firmware installation a little bit easier.
 * Heltec WiFi LoRa 32 V3
 
 
+## Using Different Firmware
+
+The firmware included is the original firmware released for RadioDoge on Heltec devices. You can simply replace the contents of '/Content/heltec-firmware' with newer firmware sourcecode.
